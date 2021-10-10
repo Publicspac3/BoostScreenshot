@@ -1,5 +1,5 @@
 # BoostScreenshot
-Mimics the look of rlcd gifs. No GUI, Zoomed out. 
+Mimics the look of RLCD gifs. No GUI, Zoomed out. 
 
 Made this for designers in PMRLR
 
