@@ -1,4 +1,7 @@
 # BoostScreenshot
+
+Dead project, go [here](https://github.com/Publicspac3/MainMenuCustomizer) to see where this project is going.
+
 Mimics the look of RLCD gifs. No GUI, Zoomed out. 
 
 Made this for designers in PMRLR
